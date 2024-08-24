@@ -1,9 +1,9 @@
 # Iceberg-dark
 Iceberg dark theme for foot
-![[color_palet]]
+![color_palet]
 
 ## In using
-![[with opacity]]
+![with opacity]
 My setyp with Hyprland. 
 Blur 
 ignore_opacity = true
