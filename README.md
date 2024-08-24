@@ -6,9 +6,9 @@ Iceberg dark theme for foot
 ![with opacity](/with_opacity.png)
 My setyp with Hyprland. 
 Blur 
-ignore_opacity = true
-brightness = 2
-size = 3
-passes = 4
+- ignore_opacity = true
+- brightness = 2
+- size = 3
+- passes = 4
 
-foot opacity = 0.72
+-foot opacity = 0.72
